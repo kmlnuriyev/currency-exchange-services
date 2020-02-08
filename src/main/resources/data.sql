@@ -1,0 +1,2 @@
+insert into exchange_value (id, currency_from, currency_to, conversion_multiple, port) values (1001, 'USD', 'AZN', 1.7, 0);
+insert into exchange_value (id, currency_from, currency_to, conversion_multiple, port) values (1002, 'EUR', 'AZN', 1.8, 0);
